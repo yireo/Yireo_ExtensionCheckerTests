@@ -1,0 +1,21 @@
+{
+  "name": "yireo/module-extension-checker-tests",
+  "version": "1.0.0",
+  "description": "N/A",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*",
+    "yireo/magento2-extensionchecker": "2.4.*"
+  },
+  "license": [
+    "Open Software License (OSL)"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Yireo\\ExtensionCheckerTests\\": ""
+    }
+  }
+}
