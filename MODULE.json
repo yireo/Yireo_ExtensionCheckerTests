@@ -1,1 +1,7 @@
-{}
+{
+    "module_name": "Yireo_ExtensionCheckerTests",
+    "composer_name": "yireo/module-extension-checker-tests",
+    "sequence": [
+        "Yireo_ExtensionChecker"
+    ]
+}
