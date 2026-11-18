@@ -1,1 +1,5 @@
-{}
+{
+  "name": "yireo/test1",
+  "type": "magento2-module",
+  "license": "Unknown-License"
+}
