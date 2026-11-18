@@ -3,5 +3,7 @@
     "composer_name": "yireo/module-extension-checker-tests",
     "sequence": [
         "Yireo_ExtensionChecker"
-    ]
+    ],
+    "phpcs_severity": "1",
+    "phpstan_level": "5"
 }
