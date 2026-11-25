@@ -11,6 +11,11 @@
     "phpunit/phpunit": "^9.5|^10.0"
   },
   "license": "OSL-3.0",
+  "archive": {
+    "exclude": [
+      "/.github"
+    ]
+  },
   "autoload": {
     "files": [
       "registration.php"

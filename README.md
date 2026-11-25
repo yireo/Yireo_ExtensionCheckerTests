@@ -1,5 +1,7 @@
 # Yireo_ExtensionCheckerTests module
 
+**This is a development-only package.** It contains integration tests and test fixture modules for `Yireo_ExtensionChecker`. Install it with `composer require --dev` and never enable it in production.
+
 <font color='red'>**The following example is a complete README for a module Magento_Default:** </font>
 # Magento_Default module
 The Magento_Default module enables you to add the Configurable Product updates to the existing store campaigns.
