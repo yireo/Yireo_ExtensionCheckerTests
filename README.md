@@ -1,5 +1,17 @@
 # Yireo_ExtensionCheckerTests module
 
+<!-- badges.specs.start -->
+<div class="github-specs-badges">
+
+![Magento version](https://img.shields.io/badge/Magento-2.4.6%20%7C%202.4.9-orange)
+![PHP version](https://img.shields.io/badge/PHP-8.2%E2%80%938.5-777BB4)
+![License](https://img.shields.io/badge/License-OSL--3.0-blue)
+![Latest Version](https://img.shields.io/packagist/v/yireo/module-extension-checker-tests)
+
+</div>
+<!-- badges.specs.end -->
+
+
 **This is a development-only package.** It contains integration tests and test fixture modules for `Yireo_ExtensionChecker`. Install it with `composer require --dev` and never enable it in production.
 
 <font color='red'>**The following example is a complete README for a module Magento_Default:** </font>
@@ -35,3 +47,17 @@ For information about a UI component in Magento 2, see [Overview of UI component
 ## Additional information
 
 For information about significant changes in patch releases, see [Release information](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html).
+
+## Current status
+
+<!-- badges.test.start -->
+<div class="github-pipeline-badges">
+
+![Static Tests](https://img.shields.io/github/actions/workflow/status/yireo/Yireo_ExtensionCheckerTests/static-tests.yml?label=static-tests)
+![Unit Tests](https://img.shields.io/github/actions/workflow/status/yireo/Yireo_ExtensionCheckerTests/unit-tests.yml?label=unit-tests)
+![Integration Tests](https://img.shields.io/github/actions/workflow/status/yireo/Yireo_ExtensionCheckerTests/integration-tests.yml?label=integration-tests)
+![Playwright](https://img.shields.io/github/actions/workflow/status/yireo/Yireo_ExtensionCheckerTests/playwright.yml?label=playwright)
+![DI Compilation](https://img.shields.io/github/actions/workflow/status/yireo/Yireo_ExtensionCheckerTests/compile.yml?label=compile)
+
+</div>
+<!-- badges.test.end -->
